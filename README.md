@@ -1,3 +1,3 @@
 # autoscan.py
 
-### Captures photos from arducam array for photogrammetry
+Captures photo sequences from rpi arducam array for photogrammetry
